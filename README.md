@@ -1,5 +1,5 @@
 
-# Hi there, I'm LX0ps 👋
+# Hi there, I'm lx0ps 👋
 
 ![Blue Team SOC Banner](capturez2.jpg)
 
