@@ -5,4 +5,4 @@
 
 ## 🛡️ Blue Team & Security Operations
 - 🔭 I’m currently working on SOC analysis, threat hunting, and incident response.
-- 🧪 Practicing defensive security on TryHackMe & Hack The Box.
+- 🧪 Practicing defensive security on platforms.
